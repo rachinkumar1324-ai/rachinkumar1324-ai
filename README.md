@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Rachin Singh<br>👨‍💻 BCA Final Year Student | Python Enthusiast<br>🤖 Interested in AI & Machine Learning<br>💼 Internship Experience at Infotact Solutions<br>🧩 Strong Problem Solving & Project Developmen
+Hi, I am Rachin Singh<br>👨‍💻 BCA Final Year Student | Python Enthusiast<br>🤖 Interested in AI & Machine Learning<br>💼 Internship Experience at Infotact Solutions<br>🧩 Strong Problem Solving & Project Development
 
 
 ## 🌐 Socials:
